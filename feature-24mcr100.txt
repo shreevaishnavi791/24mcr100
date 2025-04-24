@@ -1,1 +1,8 @@
-add this iris code
+nae: shreevaishnavi B
+regno: 24mcr100
+dept: MCA
+fav topic: graphical designing
+fav color:blue
+college:kongu engineering college
+
+

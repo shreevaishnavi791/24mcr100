@@ -1,4 +1,4 @@
-from pandas import read_csv
+from pandas import read csv
 from matplotlib import pyplot
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
